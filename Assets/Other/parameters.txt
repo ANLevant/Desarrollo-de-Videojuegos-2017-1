@@ -1,0 +1,6 @@
+Player scale: 0.325
+Player move speed multiplier: 0.3055
+
+Enemi scale: 0.6
+Enemi move speed multiplier: 0.597
+
